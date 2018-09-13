@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RF_Module_Extra)(type KiCad)(uri ${KIPRJMOD}/modules/RF_Module_Extra.pretty)(options "")(descr ""))
+  (lib (name Connector_Card_Extra)(type KiCad)(uri ${KIPRJMOD}/modules/Connector_Card_Extra.pretty)(options "")(descr ""))
+)
