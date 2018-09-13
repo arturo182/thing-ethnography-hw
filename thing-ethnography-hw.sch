@@ -794,4 +794,15 @@ F 3 "" H 4100 1750 50  0001 C CNN
 $EndComp
 Text Notes 3200 2250 0    50   ~ 0
 PROG resistor:\n10K =  100mA\n 5K =  200mA\n 2K =  500mA\n 1K = 1000mA
+$Comp
+L Interface_USB_Extra:CP2104 U?
+U 1 1 5BA03740
+P 1500 6600
+F 0 "U?" H 1500 7367 50  0000 C CNN
+F 1 "CP2104" H 1500 7276 50  0000 C CNN
+F 2 "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" H 200 5600 50  0001 L CNN
+F 3 "https://www.silabs.com/Support%20Documents/TechnicalDocs/cp2104.pdf" H 950 7850 50  0001 C CNN
+	1    1500 6600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
